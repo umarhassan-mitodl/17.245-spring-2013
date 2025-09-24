@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ]
+  ],
+  "legacy_uid": "8287d3d6-19c0-e421-232a-e3928b175ea8",
+  "instructors": {
+    "content": [
+      "3c3e807e-6636-0844-a1f4-61b7fafbf7d0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6628a279-61c2-0be4-5024-19721b890a33",
+    "website": "17-245-constitutional-law-structures-of-power-and-individual-rights-spring-2013"
+  },
+  "course_title": "Constitutional Law: Structures of Power and Individual Rights",
+  "course_description": "This course examines American constitutional law in historical and modern context. It focuses closely on the constitutional text and Supreme Court case law. It explores the allocation of decision-making authority among government institutions, including the distribution of power across the branches of the federal government and between the federal and state governments. The course also examines the guarantees of individual rights and liberties stemming from the due process, equal protection, and other clauses in the Bill of Rights and post Civil War amendments.\n\nAcknowledgments\n---------------\n\nProfessor Warshaw would like to acknowledge the training in Constitutional Law he received from Gary J. Jacobsohn, Kathleen Sullivan, and Norman Spaulding.\n\n#####\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.245",
+  "course_image_thumbnail": {
+    "content": "4f955c25-0419-7c2a-53fe-17761255a872",
+    "website": "17-245-constitutional-law-structures-of-power-and-individual-rights-spring-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "21ab5f9f-c38e-4b78-aadf-dcb0040c8bd2",
+  "site_short_id": "17.245-spring-2013",
+  "site_url_path": "courses/17-245-constitutional-law-structures-of-power-and-individual-rights-spring-2013",
+  "title": "Course Metadata"
+}
