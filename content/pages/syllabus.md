@@ -99,9 +99,9 @@ Final exam
 
 Students are encouraged to prepare "briefs" of the assigned cases in order to be prepared to examine critically the opinions of the Court.
 
-See "{{% resource_link "155a3bff-1740-4359-829a-35447a2fccc3" "How To Read A Case" %}}" by Julie Novkov, University at Albany, SUNY.
+See "{{% resource_link "31aa6d53-21da-4c95-adc9-5eeb3ed2f204" "How To Read A Case" %}}" by Julie Novkov, University at Albany, SUNY.
 
 Academic Integrity
 ------------------
 
-Students are encouraged to talk to one another outside of class about issues discussed in class and to brainstorm about essays. You often learn best from your peers. However, each student is expected to write his or her own essays and exam notes individually. For more on academic integrity, please see the {{% resource_link "857da090-7193-4b8c-9d03-6676b148a068" "Academic Integrity at MIT" %}} website.
+Students are encouraged to talk to one another outside of class about issues discussed in class and to brainstorm about essays. You often learn best from your peers. However, each student is expected to write his or her own essays and exam notes individually. For more on academic integrity, please see the {{% resource_link "d9ed842a-637a-4979-84fc-24acdf468b84" "Academic Integrity at MIT" %}} website.
